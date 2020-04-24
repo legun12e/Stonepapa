@@ -5,4 +5,5 @@ I think this gihub is as a new communication methodology to talk about intangibl
 There are some limit to describe new concept with legacy languages. 
 It's also difficult to represent that through any pictures. 
 At this situation, it's very useful to communicate with other using Github for new concept. 
+Please feel free let me touch ^^*
 
